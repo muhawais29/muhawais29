@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&psig=AOvVaw0YSEePDamYgUKJLcKXrZ8X&ust=1695311724883000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjj6rzQuYEDFQAAAAAdAAAAABAK.gif"/>
+ <img align="right" alt="coding" width="400" src="README.md"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhawais29&label=Profile%20views&color=0e75b6&style=flat" alt="muhawais29" /> </p>
 
