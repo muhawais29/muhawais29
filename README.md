@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhawais29&label=Profile%20views&color=0e75b6&style=flat" alt="muhawais29" /> </p>
 
 - 🌱 I’m currently learning **front-end Web Development**
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDeveloper.gif&tbnid=47chckvIQOvI5M&vet=12ahUKEwjXmLe6xrmBAxXhsEwKHSgLDRMQMygoegUIARDTAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=243&h=177&q=animated%20coding%20gif&ved=2ahUKEwjXmLe6xrmBAxXhsEwKHSgLDRMQMygoegUIARDTAQ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FTheDudeThatCode%2FTheDudeThatCode%2Fmaster%2FAssets%2FDeveloper.gif&tbnid=47chckvIQOvI5M&vet=12ahUKEwjXmLe6xrmBAxXhsEwKHSgLDRMQMygoegUIARDTAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=243&h=177&q=animated%20coding%20gif&ved=2ahUKEwjXmLe6xrmBAxXhsEwKHSgLDRMQMygoegUIARDTAQ"/>
 
 - 📫 How to reach me **muhawais620@gmail.com**
 
