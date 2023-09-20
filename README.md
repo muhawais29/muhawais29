@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhawais29&label=Profile%20views&color=0e75b6&style=flat" alt="muhawais29" /> </p>
 
 - 🌱 I’m currently learning **front-end Web Development**
-- <img align="right" alt="coding" width="400" src="images.png"/>
+- <img align="right" alt="coding" width="400" src="images.png">
 
 - 📫 How to reach me **muhawais620@gmail.com**
 
