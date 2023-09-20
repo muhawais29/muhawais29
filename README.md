@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
+!logo(Github Banner.png)
+ <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
  <img align="right" alt="coding" width="400" src="README.md"/>
 
